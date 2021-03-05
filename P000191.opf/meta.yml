@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000191
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྗེ་རྒོད་ཚང་པའི་རྣལ་འབྱོར་བཞིའི་ཟབ་འགྲེལ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། རྒོད་ཚང་པ།
-  sku: LEK-MA-DK-02
   layers:
   - book_title
   - author
+  id: LEK-MA-DK-02
 web_metadata:
   title:
     en: A Profound Commentary on the Four Yogas of Mahamudra
